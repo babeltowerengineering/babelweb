@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /babelweb/
 markdown: rdiscount
 safe: true
 lsi: false
